@@ -1,12 +1,3 @@
-// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="HostChecker.cs" company="Bassett Data">
-//   Copyright (c) 2010 Bassett Data
-// </copyright>
-// <summary>
-//   Checks the status method of a host.
-// </summary>
-// --------------------------------------------------------------------------------------------------------------------
-
 namespace CheckService
 {
     using System;
